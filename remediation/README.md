@@ -1,4 +1,4 @@
-# Security Remediation Guide
+# Security Remediation Guide   
 
 This directory contains detailed instructions on how to fix each security vulnerability found in the Vulnerable Web Application.
 
